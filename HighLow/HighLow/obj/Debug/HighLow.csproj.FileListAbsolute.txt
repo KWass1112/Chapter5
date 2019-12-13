@@ -1,0 +1,6 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\HighLow\HighLow\obj\Debug\HighLow.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\HighLow\HighLow\bin\Debug\HighLow.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\HighLow\HighLow\bin\Debug\HighLow.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\HighLow\HighLow\bin\Debug\HighLow.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\HighLow\HighLow\obj\Debug\HighLow.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\HighLow\HighLow\obj\Debug\HighLow.pdb

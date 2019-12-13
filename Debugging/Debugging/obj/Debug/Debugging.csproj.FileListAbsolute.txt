@@ -1,0 +1,7 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\Debugging\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\Debugging\Debugging\bin\Debug\Debugging.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\Debugging\Debugging\bin\Debug\Debugging.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\Debugging\Debugging\obj\Debug\Debugging.csprojAssemblyReference.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\Debugging\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\Debugging\Debugging\obj\Debug\Debugging.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter5\Debugging\Debugging\obj\Debug\Debugging.pdb
